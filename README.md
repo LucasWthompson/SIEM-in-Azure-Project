@@ -128,7 +128,7 @@ Repeated my step by pinging my VM's IP Address, and now have response from it:  
 Opened PowerShell SE as an Administrator:  <br/>
 <img src="https://i.imgur.com/ZfzJKjo.png" height="80%" width="80%" alt="SIEM in Azure Steps"/>
 <br />
-With his permission, I used joshmakador1's PowerShell code (https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) for this SIEM and entered it into Powershell:  <br/>
+With his permission, I used joshmakador1's PowerShell code (https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) for this SIEM and entered it into Powershell. This code is a Log Exporter, which will send our log data to Microsoft Sentinel later:  <br/>
 <img src="https://i.imgur.com/1S4ZJl7.png" height="80%" width="80%" alt="SIEM in Azure Steps"/>
 <br />
 Navigated to ipgeolocation, created an account, and entered in the VM's IP address: <br/>
