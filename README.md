@@ -13,7 +13,7 @@ Project consists of using applications in Azure, such as Virtual Machines, Senti
 - <b>Microsoft Sentinel in Azure</b>
 - <b>Log Analytics workspaces in Azure</b>
 - <b>PowerShell</b>
-- <b>ipgeolocation</b>
+- <b>ipgeolocation.com</b>
 
 <h2>Environments Used </h2>
 
